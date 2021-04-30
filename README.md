@@ -1,6 +1,6 @@
 # My BookShelf 
 
-**`VIPER`, `RxSwift`, `Realm`, `NSCache`, `SnapKit`, `RxAlamofire`, `Dependency-Injection`, `NSCache`, `Pagination`**
+**`VIPER`, `RxSwift`, `Realm`, `NSCache`, `SnapKit`, `RxAlamofire`, `Dependency-Injection`, `Pagination`**
 
 ![Generic badge](https://img.shields.io/badge/Licence-MIT-lightgray) ![Generic badge](https://img.shields.io/badge/Language-Swift-black) 
 
